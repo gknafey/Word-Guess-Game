@@ -1,0 +1,28 @@
+body {
+    background: black;
+}
+
+.colors {
+    background: black;
+    border-color: black;
+}
+
+.textcolor {
+    color:white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.border {
+    border-style: dotted;
+    border-color: white;
+}
+
+.hangmanpic {
+    width: 350px;
+    height: 300px;
+}
+
+#border1 {
+    border-top: dotted white;
+}
